@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532461915138",
+    "project_id": "jec-notifier",
+    "storage_bucket": "jec-notifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532461915138:android:88ebde7237bbd124adeb1b",
+        "android_client_info": {
+          "package_name": "com.example.jec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXzyt5SvOT_lKjbnySdVYIB8ycCaSvxT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
